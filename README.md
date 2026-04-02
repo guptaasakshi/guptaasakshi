@@ -18,26 +18,27 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="30"> About Me
+💖 About Me
 
-```python
-class SakshiGupta:
-    def __init__(self):
-        self.name        = "Sakshi Gupta"
-        self.role        = "Data Scientist & Full-Stack Developer"
-        self.domain      = "Data Science | Web Development | UI/UX"
-        self.languages   = ["Python", "JavaScript", "TypeScript", "Java", "C++", "R"]
-        self.interests   = ["Machine Learning", "Data Visualization", "React", "Problem Solving"]
-        self.currently   = "Building modern web apps & diving deep into ML/AI 🚀"
-        self.fun_fact    = "Code + Creativity = My happy place 💙"
-        self.open_to     = "Collaborations on creative frontend & data projects!"
+👋 Hi! I'm Sakshi Gupta — a passionate Data Science student who loves building beautiful web experiences and turning raw data into real stories.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together ✨")
 
-me = SakshiGupta()
-me.say_hi()
-```
+🎓 B.Tech CSE | Specialization in Data Science
+💻 Role: Full-Stack Developer + Data Science Enthusiast
+🌍 Domain: Data Science | Web Development | UI/UX
+🧠 Languages: Python, JavaScript, TypeScript, Java, C++, R
+🔥 Interests: Machine Learning, Data Visualization, React, Problem Solving
+🚀 Currently: Building modern web apps & diving deep into ML/AI
+🤝 Open to: Collaborations on creative frontend & data projects!
+⚡ Fun fact: Code + Creativity = My happy place 💙
+
+
+"Thanks for dropping by! Let's build something awesome together ✨"
+
+<br>
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
 
 <br>
 
