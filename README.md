@@ -18,27 +18,20 @@
 
 ---
 
-💖 About Me
+## 💖 About Me
 
-👋 Hi! I'm Sakshi Gupta — a passionate Data Science student who loves building beautiful web experiences and turning raw data into real stories.
+> 👋 Hi! I'm **Sakshi Gupta** — a passionate **Data Science** student who loves building beautiful web experiences and turning raw data into real stories.
 
+- 🎓 **B.Tech CSE** | Specialization in **Data Science**
+- 💻 **Role:** Full-Stack Developer + Data Science Enthusiast
+- 🌍 **Domain:** Data Science | Web Development | UI/UX
+- 🧠 **Languages:** Python, JavaScript, TypeScript, Java, C++, R
+- 🔥 **Interests:** Machine Learning, Data Visualization, React, Problem Solving
+- 🚀 **Currently:** Building modern web apps & diving deep into ML/AI
+- 🤝 **Open to:** Collaborations on creative frontend & data projects!
+- ⚡ **Fun fact:** Code + Creativity = My happy place 💙
 
-🎓 B.Tech CSE | Specialization in Data Science
-💻 Role: Full-Stack Developer + Data Science Enthusiast
-🌍 Domain: Data Science | Web Development | UI/UX
-🧠 Languages: Python, JavaScript, TypeScript, Java, C++, R
-🔥 Interests: Machine Learning, Data Visualization, React, Problem Solving
-🚀 Currently: Building modern web apps & diving deep into ML/AI
-🤝 Open to: Collaborations on creative frontend & data projects!
-⚡ Fun fact: Code + Creativity = My happy place 💙
-
-
-"Thanks for dropping by! Let's build something awesome together ✨"
-
-<br>
-<table align="center" border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+> *"Thanks for dropping by! Let's build something awesome together ✨"*
 
 <br>
 
