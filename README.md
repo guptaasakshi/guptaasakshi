@@ -148,13 +148,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=guptaasakshi&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
+<br>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+<img src="https://streak-stats.demolab.com?user=guptaasakshi&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=9ca3af" width="60%" />
 </div>
 
 ---
@@ -162,7 +164,10 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guptaasakshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+<!-- Trophies — show only when account has enough activity; using OneDark theme as fallback -->
+<img src="https://github-profile-trophy.vercel.app/?username=guptaasakshi&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%" />
+
 </div>
 
 ---
@@ -170,7 +175,7 @@ me.say_hi()
 ## ⚔️ LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Sakshiii_01?theme=dark&font=JetBrains+Mono&ext=heatmap&hide_border=true" width="60%" />
+<img src="https://leetcard.jacoblin.cool/Sakshiii_01?theme=dark&font=JetBrains+Mono&ext=heatmap&hide_border=true&border=0&radius=10" width="60%" />
 </div>
 
 ---
@@ -178,12 +183,47 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaasakshi&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=ffffff&area_color=7C3AED" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaasakshi&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=C084FC&area_color=20123a&custom_title=Sakshi's%20Contribution%20Graph" width="100%" />
 </div>
+
+> ⚠️ **Note:** Activity graph populates as you push more commits — keep coding! 🚀
 
 ---
 
 ## 🐍 Contribution Snake
+
+> **Setup required:** In your `guptaasakshi` repo, add a GitHub Action to generate the snake SVG.  
+> Go to **Settings → Actions → New workflow** and add the snake action (see setup instructions below).
+
+<details>
+<summary>📋 Click to see Snake Action Setup</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
 
 <div align="center">
   <picture>
@@ -203,10 +243,19 @@ me.say_hi()
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🎯 Skill Proficiency
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=guptaasakshi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
+
+| Domain | Skills | Level |
+|--------|--------|-------|
+| 🧠 Data Science | Python, Pandas, NumPy, Matplotlib | ████████░░ 80% |
+| 🤖 ML / AI | TensorFlow, PyTorch, Scikit-learn | ███████░░░ 70% |
+| ⚛️ Frontend | React, HTML, CSS, TailwindCSS | ████████░░ 80% |
+| 🔧 Backend | Node.js, Django, Flask, FastAPI | ██████░░░░ 60% |
+| ☁️ Cloud & DevOps | AWS, GCP, Azure, Git | ██████░░░░ 60% |
+| 🎨 UI/UX Design | Figma, Canva, Adobe | ███████░░░ 70% |
+
 </div>
 
 ---
