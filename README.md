@@ -142,8 +142,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://gh-stats-readme.vercel.app/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
+<img src="https://gh-stats-readme.vercel.app/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
 
@@ -159,8 +159,7 @@
 
 <div align="center">
 
-<!-- Trophies — show only when account has enough activity; using OneDark theme as fallback -->
-<img src="https://github-profile-trophy.vercel.app/?username=guptaasakshi&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=guptaasakshi&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
 
 </div>
 
