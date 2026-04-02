@@ -142,15 +142,15 @@
 
 <div align="center">
 
-<img src="https://gh-stats-readme.vercel.app/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
-<img src="https://gh-stats-readme.vercel.app/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://readme-stats.clckblog.space/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=guptaasakshi&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=9ca3af" width="60%" />
+<img src="https://github-readme-streak-stats-sigma.vercel.app?user=guptaasakshi&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" width="60%" />
 </div>
 
 ---
@@ -158,9 +158,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=guptaasakshi&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
-
 </div>
 
 ---
