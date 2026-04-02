@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Gupta&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%7C+Data+Science+%F0%9F%A7%A0;React+%E2%9A%9B%EF%B8%8F+%7C+Python+%F0%9F%90%8D+%7C+Full-Stack+Dev;Turning+Raw+Data+into+Real+Stories+%F0%9F%93%8A;Building+Beautiful+%26+Functional+UIs+%F0%9F%8E%A8;Code+%2B+Creativity+%3D+My+Happy+Place+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%7C+Data+Science+%F0%9F%A7%A0;React+%E2%9A%9B%EF%B8%8F+%7C+Python+%F0%9F%90%8D+%7C+Full-Stack+Dev;Turning+Raw+Data+into+Real+Stories+%F0%9F%93%8A;Building+Beautiful+%26+Functional+UIs+%F0%9F%8E%A8;Code+%2B+Creativity+%3D+My+Happy+Place+%F0%9F%92%99"  alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -192,7 +192,13 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guptaasakshi/guptaasakshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guptaasakshi/guptaasakshi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guptaasakshi/guptaasakshi/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 
