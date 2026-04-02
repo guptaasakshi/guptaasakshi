@@ -142,15 +142,32 @@
 
 <div align="center">
 
-<img src="https://readme-stats.clckblog.space/api?username=guptaasakshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=guptaasakshi&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+[![GitHub followers](https://img.shields.io/github/followers/guptaasakshi?label=Followers&style=for-the-badge&color=A78BFA&labelColor=0d1117&logo=github)](https://github.com/guptaasakshi)
+[![GitHub stars](https://img.shields.io/github/stars/guptaasakshi?label=Total%20Stars&style=for-the-badge&color=7C3AED&labelColor=0d1117&logo=github)](https://github.com/guptaasakshi)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats-sigma.vercel.app?user=guptaasakshi&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" width="60%" />
+
+| 📁 Metric | 🔢 Details |
+|-----------|-----------|
+| 👤 Username | guptaasakshi |
+| 🌍 Profile | [github.com/guptaasakshi](https://github.com/guptaasakshi) |
+| 💻 Primary Stack | Python · JavaScript · React |
+| 🧠 Domain | Data Science · ML · Full Stack |
+| 🔓 Public Repos | Visit profile to see latest |
+| ⭐ Focus | Building & Learning every day |
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 📈 **Stats update automatically as I push more code — stay tuned!**
+
 </div>
 
 ---
